@@ -1,0 +1,21 @@
+{
+    "name": "jazzman/format-html",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasyl Sokolyk",
+            "email": "vsokolyk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "JazzMan\\FormatHtml\\":""
+        },
+        "files": [
+            "helper.php"
+        ]
+    }
+}
